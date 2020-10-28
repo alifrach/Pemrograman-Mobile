@@ -1,16 +1,24 @@
-# sdgs15
+# Kelompok J sdgs15
 
-A new Flutter application.
+# Anggota Kelompok :
+- Alif Rachman Saputro 182410102058
+- Firratus Saadah 182410102004
+- Niki Putri Hadi Pradani 182410102072
 
-## Getting Started
+# Aplikasi FANA :
+Deskripsi : Aplikasi berbasis mobile yang berfungsi untuk pengenalan Hewan dan Tumbuhan langka yang di lindungi, serta pengetahuan berupa artikel mengenai menjaga ekosistem daratan, serta terdapat quis seputar hewan dan tumbuhan langka.
 
-This project is a starting point for a Flutter application.
+# Fitur Yang terdapat di aplikasi FANA :
+1. Pengenalan Tumbuhan Langka
+2. Pengenalan Hewan Langka
+3. Informasi/Edukasi yang berbentuk artikel mengenai menjaga ekosistem darat
+4. quis
 
-A few resources to get you started if this is your first Flutter project:
+# Progress :
+- Upload file di github
+- mengupdate file README
+- Menerapkan Core dan Root Widget pada file project 
+ 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
