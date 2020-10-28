@@ -1,9 +1,9 @@
 # Kelompok J sdgs15
 
 # Anggota Kelompok :
-1. Alif Rachman Saputro 182410102058
+- Alif Rachman Saputro 182410102058
 - Firratus Saadah 182410102004
-3. Niki Putri Hadi Pradani 182410102072
+- Niki Putri Hadi Pradani 182410102072
 
 # Aplikasi FANA :
 Deskripsi : Aplikasi berbasis mobile yang berfungsi untuk pengenalan Hewan dan Tumbuhan langka yang di lindungi, serta pengetahuan berupa artikel mengenai menjaga ekosistem daratan, serta terdapat quis seputar hewan dan tumbuhan langka.
